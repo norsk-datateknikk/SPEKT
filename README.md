@@ -1,3 +1,3 @@
 # SPEKT
 
-![image](https://github.com/norsk-datateknikk/SPEKT/assets/47660770/14d77895-3253-4686-86a6-a808b4df02da)
+![image](https://github.com/norsk-datateknikk/SPEKT/assets/47660770/b688e17c-c2b7-4ed6-9c81-2657151ad74b)
